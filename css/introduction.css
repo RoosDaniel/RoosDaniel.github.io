@@ -1,0 +1,36 @@
+.introduction-container {
+    position: relative;
+    z-index: 1;
+    height: 100vh;
+    width: 100%;
+}
+
+.introduction {
+    position: fixed;
+    text-align: center;
+    background-image: url("../images/introduction.jpg");
+    background-size: 100% 100%;
+    padding-top: 100px;
+    opacity: 1;
+    height: 100vh;
+    width: 100%;
+}
+
+.introduction-bg_color {
+    position: fixed;
+    height: 100vh;
+    width: 100%;
+}
+
+.introduction-title {
+    font-size: 500%;
+}
+
+.introduction-hr {
+    margin: 10px 30%;
+}
+
+.introduction-subtitle {
+    font-size: 150%;
+    color: #666666;
+}
